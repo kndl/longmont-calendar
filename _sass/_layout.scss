@@ -1,0 +1,83 @@
+/******************************************************************************
+ * Content
+ ******************************************************************************/
+
+body {
+  padding-bottom: 70px;
+  color: var(--global-text-color);
+  background-color: var(--global-bg-color);
+}
+
+.navbar {
+  padding: 0 !important;
+  border: 0 !important;
+}
+
+.nav-item {
+  text-align: center;
+  padding: 0 0.5rem;
+  margin: 0 1rem 0 0;
+}
+
+.nav-item.active {
+  background-color: #c19690;
+
+  .nav-link {
+    color: #000000 !important;
+    font-weight: 700 !important;
+    font-style: normal !important;
+    text-align: center;
+  }
+}
+
+.nav-link {
+  padding: 0 !important;
+  font-size: 1.125rem;
+  font-family: "Courier Prime", monospace;
+  font-weight: 400;
+  font-style: normal;
+  color: #000000;
+  text-align: center;
+}
+
+body.sticky-bottom-footer {
+  // Remove padding below footer.
+  padding-bottom: 0;
+}
+
+.container {
+  width: 100%;
+  max-width: $max-content-width;
+  padding: 0;
+}
+
+.content {
+  padding: 0;
+}
+
+@media (max-width: $max-content-width) {
+  .content {
+    padding: 0 1rem;
+  }
+}
+
+// Profile
+.profile {
+  img {
+    width: 100%;
+  }
+}
+
+// TODO: redefine content layout.
+
+/******************************************************************************
+ * Publications
+ ******************************************************************************/
+
+// TODO: redefine publications layout.
+
+/*****************************************************************************
+* Projects
+*****************************************************************************/
+
+// TODO: redefine projects layout.
