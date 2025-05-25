@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: My Life Prompted # the website title (if blank, full name will be used instead)
+title: Longmont Calendar # the website title (if blank, full name will be used instead)
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to the Linger Longer in Longmont calendar website. Found out what’s included, where to purchase, and which Longmont artists are featured this year.
 keywords: Longmont, Longmont events, Longmont calendar, Longmont artists, Longmont history
