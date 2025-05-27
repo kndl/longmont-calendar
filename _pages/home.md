@@ -9,18 +9,18 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-# Welcome to the Linger Longer in Longmont Calendar site! 
+## Welcome to the Linger Longer in Longmont Calendar site! 
 
 
-## What is this fabulous Longmont calendar? 
+### What is this fabulous Longmont calendar? 
 The 2026 Linger Longer in Longmont Calendar is a wall calendar featuring Longmont events, fascinating historical tidbits about our amazing community, and a list of local resources. Additionally, each month will feature the work of a different Longmont artist! 
 
 
-## What’s with the name - “Linger Longer in Longmont”? 
+### What’s with the name - “Linger Longer in Longmont”? 
 “Linger Longer in Longmont” is an old promotional logo that the city of Longmont used back in the 1950s to drum up interest in moving to Longmont. Residents of our amazing city know that there are so many reasons to linger longer! 
 
 
-## Who is responsible for this great idea? 
+### Who is responsible for this great idea? 
 The Linger Longer in Longmont Calendar team is a group of local creatives, business owners, and community liaisons who decided that a calendar is a great way to highlight all our community has to offer. We hope this calendar motivates you to join, celebrate, and plan with Longmont in mind. 
 
 * Emily Nava, Founder & Writer, [Tumbleweed Pioneer](https://tumbleweedpioneer.com)
@@ -30,13 +30,13 @@ The Linger Longer in Longmont Calendar team is a group of local creatives, busin
 * Eric Kawczynski, Director, [Longmont Creates](https://www.downtownlongmont.com/creative-district/longmont-creates)
 
 
-## Where can I buy the 2026 Linger Longer in Longmont Calendar? 
+### Where can I buy the 2026 Linger Longer in Longmont Calendar? 
 The 2026 Linger Longer in Longmont Calendar will be available for purchase at the following locations: (Please check back in September for the complete list!)
 
 
-## Who are the featured artists? 
+### Who are the featured artists? 
 Any Longmont artist (18 years or older) is [invited to submit original work](https://docs.google.com/forms/d/e/1FAIpQLSeHkc-eDZnliwLFepKHDCEe7O8wc2uljgJ4ubDr7qFuZGIP-Q/viewform) in response to this year’s theme: What makes you want to Linger Longer in Longmont? (Please check back in September for the artist bios!)
 
-## Questions?
+### Questions?
 Please reach out to the team here: longmontcalendar@gmail.com
 
