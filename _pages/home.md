@@ -11,8 +11,14 @@ social: false  # includes social icons at the bottom of the page
 
 # Welcome to the Linger Longer in Longmont Calendar site! 
 
+
 ## What is this fabulous Longmont calendar? 
 The 2026 Linger Longer in Longmont Calendar is a wall calendar featuring Longmont events, fascinating historical tidbits about our amazing community, and a list of local resources. Additionally, each month will feature the work of a different Longmont artist! 
+
+
+## What’s with the name - “Linger Longer in Longmont”? 
+“Linger Longer in Longmont” is an old promotional logo that the city of Longmont used back in the 1950s to drum up interest in moving to Longmont. Residents of our amazing city know that there are so many reasons to linger longer! 
+
 
 ## Who is responsible for this great idea? 
 The Linger Longer in Longmont Calendar team is a group of local creatives, business owners, and community liaisons who decided that a calendar is a great way to highlight all our community has to offer. We hope this calendar motivates you to join, celebrate, and plan with Longmont in mind. 
