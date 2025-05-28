@@ -17,7 +17,7 @@ The 2026 Linger Longer in Longmont Calendar is a wall calendar featuring Longmon
 
 
 ### What’s with the name - “Linger Longer in Longmont”? 
-“Linger Longer in Longmont” is an old promotional logo that the city of Longmont used back in the 1950s to drum up interest in moving to Longmont. Residents of our amazing city know that there are so many reasons to linger longer! 
+“Linger Longer in Longmont” is a promotional logo that the city of Longmont used back in the 1950s to drum up interest in moving to Longmont. Residents of our amazing city know that there are so many reasons to linger longer! 
 
 
 ### Who is responsible for this great idea? 
