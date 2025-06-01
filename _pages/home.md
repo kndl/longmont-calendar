@@ -24,7 +24,7 @@ The 2026 Linger Longer in Longmont Calendar is a wall calendar featuring Longmon
 The Linger Longer in Longmont Calendar team is a group of local creatives, business owners, and community liaisons who decided that a calendar is a great way to highlight all that our community has to offer. We hope this calendar motivates you to join, celebrate, and plan with Longmont in mind. 
 
 
-- Emily Nava, Founder & Writer, [Tumbleweed Pioneer](https://tumbleweedpioneer.com)
+- Emily Nava, Writer, [Tumbleweed Pioneer](https://tumbleweedpioneer.com)
 - Lauren Stapleton, Owner, [Wolf & Wren](https://wolfandwren.com/)
 - Cassie Clusman, Founder & Designer, [Pink House Design ](https://pinkhouse.design/)
 - Elizabeth Beaudoin, Curator of History, [Longmont Museum](https://longmontcolorado.gov/museum/)
